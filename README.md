@@ -5,4 +5,4 @@
 
 ## :hammer:Funcionalidades del proyecto
 
-- `Funcionalidad 1`: agregar el nombre de un amigo a una lista -`Funcionalidad 2`: puedes agregar todos los amigos que quieras a esta lista -`Funcionalidad 3`: selecciona el nombre de algún amigo al azar de la lista `Funcionalidad 4`: muestra el amigo seleccionado, este caso el ¡El amigo secreto! 
+- `Funcionalidad 1`: agregar el nombre de un amigo a una lista- `Funcionalidad 2`: puedes agregar todos los amigos que quieras a esta lista- `Funcionalidad 3`: selecciona el nombre de algún amigo al azar de la lista- `Funcionalidad 4`: muestra el amigo seleccionado, este caso el ¡El amigo secreto! 
