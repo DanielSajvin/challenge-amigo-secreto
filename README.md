@@ -2,7 +2,8 @@
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 
-<div align="center">![Amigo Secreto](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green](https://cdn-icons-png.flaticon.com/512/4473/4473897.png)</div>
+
+<div align="center">![Amigo Secreto](https://cdn-icons-png.flaticon.com/512/4473/4473897.png)</div>
 
 ## :hammer:Funcionalidades del proyecto
 - `Funcionalidad 1`: agregar el nombre de un amigo a una lista
