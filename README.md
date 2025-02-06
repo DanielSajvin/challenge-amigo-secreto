@@ -1,2 +1,2 @@
-# challenge-amigo-secreto
-Este proyecto pertenece a la realización del Challenge del amigo secreto, el cual a su vez forma parte de mi formación en Alura Latam
+<h1 align="center"> Challenge Amigo Secreto </h1>
+![Amigo Secreto](https://zvonimir.hr/images/uploads/istockphoto-1140371453-612x612.jpg)
