@@ -1,6 +1,6 @@
 # Challenge Amigo Secreto
 
-![Disponibilidad](https://img.shields.io/github/checks-status/Daniel%20Sajvin/https%3A%2F%2Fgithub.com%2FDanielSajvin%2Fchallenge-amigo-secreto/Desarrollo)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white).
 ![Amigo Secreto](https://cdn-icons-png.flaticon.com/512/4473/4473897.png)
 
 - `Funcionalidad 1`: agregar el nombre de un amigo a una lista
