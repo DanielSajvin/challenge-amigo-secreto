@@ -4,7 +4,9 @@
 
 
 
-<div align="center">![Amigo Secreto](https://cdn-icons-png.flaticon.com/512/4473/4473897.png)</div>
+<div align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/4473/4473897.png" alt="Amigo Secreto" width="200">
+</div>
 
 
 
