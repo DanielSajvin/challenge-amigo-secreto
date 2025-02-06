@@ -1,10 +1,9 @@
 # Challenge Amigo Secreto
 
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white).
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 
-<p align="left">
-   <img src="[https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green](https://cdn-icons-png.flaticon.com/512/4473/4473897.png)">
-</p>
+
+<div align="center">![Amigo Secreto]([image-url.jpg](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green](https://cdn-icons-png.flaticon.com/512/4473/4473897.png))</div>
 
 
 ## :hammer:Funcionalidades del proyecto
